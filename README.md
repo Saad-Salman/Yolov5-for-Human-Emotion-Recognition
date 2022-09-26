@@ -5,4 +5,6 @@ Use Data Sorting code to retain only the frontal Images
 
 Divide the data set into training, validation and testing parts
 
+For annotations the following application can be used: https://www.makesense.ai/ 
+
 Run this code in google colab
